@@ -1,0 +1,7 @@
+asgiref
+Django
+gunicorn
+packaging
+sqlparse
+whitenoise
+psycopg2-binary
